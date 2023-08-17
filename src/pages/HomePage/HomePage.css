@@ -2,7 +2,8 @@
     height: 392px;
 }
 .link{
-    color: blue;
+    color: lightskyblue;
+    text-decoration: underline;
 }
 .height{
     min-height: 392px;
